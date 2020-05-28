@@ -6,6 +6,7 @@ body{
 *{
 	box-sizing: border-box;
 	margin:0;
+	scroll-behavior: smooth;
 
 }
 .home{
@@ -562,7 +563,3 @@ header .navbar ul li{
 	display: flex;
 }
 
-footer{
-	background-color: #333333;
-	height:  150px;
-}
